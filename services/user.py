@@ -97,5 +97,3 @@ def update_user(
 
     user.save()
     return user
-
-print(get_user(1))
